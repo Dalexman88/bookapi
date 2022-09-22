@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;900&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Nunito", "Roboto", "Oxygen", "Ubuntu", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 15px;
+  background-size: width 600px; 
+  background-size: height 200px;
+  background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F2765616%2Fpexels-photo-2765616.jpeg%3Fcs%3Dsrgb%26dl%3Dstack-of-books-2765616.jpg%26fm%3Djpg&f=1&nofb=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
